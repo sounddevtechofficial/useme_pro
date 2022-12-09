@@ -1,0 +1,7 @@
+{
+  "name": "useme_pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
